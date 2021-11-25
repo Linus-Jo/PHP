@@ -1,0 +1,2 @@
+<?php
+//Kort randomizer
