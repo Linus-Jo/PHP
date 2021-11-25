@@ -1,0 +1,21 @@
+html{
+    background-color: Tomato;
+}
+
+body{
+    background-color: green;
+}
+kort{
+    display: inline-block;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+    font-family: Papyrus;
+    text-align: center;
+}
+p{
+    color: white;
+}
